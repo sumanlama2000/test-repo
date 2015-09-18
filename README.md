@@ -1,4 +1,5 @@
 # test-repo
+python -m SimpleHTTPServer 8888 &
 git clone "https:"
 git add --all
 git commit -m "Updates"
